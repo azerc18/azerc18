@@ -10,6 +10,7 @@
 
 <div align="center">
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-azerc18.github.io-7B4FD6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azerc18.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toanle-backend)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azerc18)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuoctoanletran@gmail.com)
@@ -26,6 +27,7 @@
 - 🎓 B.Sc. Software Engineering, FPT University (2024 – 2028)
 - 💼 Fresher at R2S Academy: owned the authentication service of a team microservices project
 - 📍 Ho Chi Minh City, Vietnam
+- 🎮 Portfolio with project case studies (architecture, challenges & solutions): **[azerc18.github.io](https://azerc18.github.io)**
 
 ---
 
@@ -95,9 +97,11 @@
 - 🤖 Turns lecture PDFs/slides into practice exams; every question cites its source page
 - ⚡ Async LLM pipeline on a PostgreSQL job queue with parallel chunks, validation and retry
 - 🔐 Google Sign-In, rotating refresh tokens with reuse detection
-- 🧪 300+ unit & integration tests, auto-deployed to a VPS
+- 🧪 300+ unit & integration tests; ran as a public beta on a VPS via GitHub Actions
 
 **Tech:** `Java 25` `Spring Boot` `PostgreSQL` `Testcontainers` `Docker`
+
+[![Case study](https://img.shields.io/badge/Case_study-azerc18.github.io-7B4FD6?style=flat-square&logo=googlechrome&logoColor=white)](https://azerc18.github.io/#quests)
 
 </td>
 <td width="50%" valign="top">
@@ -114,6 +118,7 @@
 **Tech:** `Java 25` `Spring Security` `MySQL` `JWT` `Docker`
 
 [![Live](https://img.shields.io/badge/legacyvault.codes-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://legacyvault.codes)
+[![Case study](https://img.shields.io/badge/Case_study-azerc18.github.io-7B4FD6?style=flat-square&logo=googlechrome&logoColor=white)](https://azerc18.github.io/#quests)
 
 </td>
 </tr>
@@ -181,6 +186,10 @@
 
 <div align="center">
 
+<a href="https://azerc18.github.io">
+  <img src="https://img.shields.io/badge/azerc18.github.io-7B4FD6?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:phuoctoanletran@gmail.com">
   <img src="https://img.shields.io/badge/phuoctoanletran@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
