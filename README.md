@@ -89,7 +89,7 @@
 <td width="50%" valign="top">
 
 ### 📚 [StudyForge](https://github.com/azerc18/study-forge)
-*Solo · Full-stack · Deployed*
+*Solo · Full-stack*
 <br>
 
 - 🤖 Turns lecture PDFs/slides into practice exams; every question cites its source page
@@ -98,8 +98,6 @@
 - 🧪 300+ unit & integration tests, auto-deployed to a VPS
 
 **Tech:** `Java 25` `Spring Boot` `PostgreSQL` `Testcontainers` `Docker`
-
-[![Live](https://img.shields.io/badge/studyforge.duckdns.org-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://studyforge.duckdns.org)
 
 </td>
 <td width="50%" valign="top">
